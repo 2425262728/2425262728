@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**2425262728/2425262728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+boas vindas ao meu perfil 💓
+Me chamo Yasmim Manuely e tenho 15 anos.
 
-Here are some ideas to get you started:
+Estou estudando na [Alura] (https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguagem JavaScript.
+
+Entre em contato comigo 🤙
+
+yasmim.manuely.borges@escola.pr.gov.br
+
+@yasmim.manuely
