@@ -11,7 +11,7 @@ Entre em contato comigo 🤙
 
 - yasmim.manuely.borges@escola.pr.gov.br
 
-- @yasmim.manuely
+- insta: @yasmim.manuely
 
 ![](https://media.tenor.com/6LOhT7zzKpQAAAAC/universe-galaxy.gif)
 
